@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinChatServer", "WinChatServer\WinChatServer.vcxproj", "{F4138809-28F8-4EA0-AC62-2A784466983F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinChatClient", "..\WinChatClient\WinChatClient\WinChatClient.vcxproj", "{8C3ADCB2-CCA3-4CD6-A473-88747DB765A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientUDP", "..\ClientUDP\ClientUDP\ClientUDP.vcxproj", "{85005146-A6F5-4CE0-A265-EF74F66FA107}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerUDP", "..\ServerUDP\ServerUDP\ServerUDP.vcxproj", "{307729C1-143D-4489-B7A4-BD78D46438EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Internet Explorer", "..\浏览器源代码\Internet Explorer.vcxproj", "{E8869AE2-C20B-58CC-AFFB-657762F04B04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test1", "..\Test1\Test1\Test1.vcxproj", "{316AE5A1-8E38-4F47-9427-322B0B20686A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4138809-28F8-4EA0-AC62-2A784466983F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4138809-28F8-4EA0-AC62-2A784466983F}.Debug|Win32.Build.0 = Debug|Win32
+		{F4138809-28F8-4EA0-AC62-2A784466983F}.Release|Win32.ActiveCfg = Release|Win32
+		{F4138809-28F8-4EA0-AC62-2A784466983F}.Release|Win32.Build.0 = Release|Win32
+		{8C3ADCB2-CCA3-4CD6-A473-88747DB765A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C3ADCB2-CCA3-4CD6-A473-88747DB765A3}.Debug|Win32.Build.0 = Debug|Win32
+		{8C3ADCB2-CCA3-4CD6-A473-88747DB765A3}.Release|Win32.ActiveCfg = Release|Win32
+		{8C3ADCB2-CCA3-4CD6-A473-88747DB765A3}.Release|Win32.Build.0 = Release|Win32
+		{85005146-A6F5-4CE0-A265-EF74F66FA107}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85005146-A6F5-4CE0-A265-EF74F66FA107}.Debug|Win32.Build.0 = Debug|Win32
+		{85005146-A6F5-4CE0-A265-EF74F66FA107}.Release|Win32.ActiveCfg = Release|Win32
+		{85005146-A6F5-4CE0-A265-EF74F66FA107}.Release|Win32.Build.0 = Release|Win32
+		{307729C1-143D-4489-B7A4-BD78D46438EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{307729C1-143D-4489-B7A4-BD78D46438EE}.Debug|Win32.Build.0 = Debug|Win32
+		{307729C1-143D-4489-B7A4-BD78D46438EE}.Release|Win32.ActiveCfg = Release|Win32
+		{307729C1-143D-4489-B7A4-BD78D46438EE}.Release|Win32.Build.0 = Release|Win32
+		{E8869AE2-C20B-58CC-AFFB-657762F04B04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8869AE2-C20B-58CC-AFFB-657762F04B04}.Debug|Win32.Build.0 = Debug|Win32
+		{E8869AE2-C20B-58CC-AFFB-657762F04B04}.Release|Win32.ActiveCfg = Release|Win32
+		{E8869AE2-C20B-58CC-AFFB-657762F04B04}.Release|Win32.Build.0 = Release|Win32
+		{316AE5A1-8E38-4F47-9427-322B0B20686A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{316AE5A1-8E38-4F47-9427-322B0B20686A}.Debug|Win32.Build.0 = Debug|Win32
+		{316AE5A1-8E38-4F47-9427-322B0B20686A}.Release|Win32.ActiveCfg = Release|Win32
+		{316AE5A1-8E38-4F47-9427-322B0B20686A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
